@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name        YouTube Subtitles Shortcut Override
 // @author      ZeroUnderscoreOu
-// @version     1.0.1
+// @version     1.0.2
 // @icon        
 // @description Allows changing the size of subtitles with numpad, while disabling default shortcuts.
 // @namespace   https://github.com/ZeroUnderscoreOu/
-// @match       
+// @match       https://www.youtube.com/*
 // @run-at      document-idle
 // @grant       none
 // ==/UserScript==
